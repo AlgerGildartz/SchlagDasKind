@@ -1,0 +1,28 @@
+[
+  {
+    "wave": [
+      {
+        "name": "a",
+        "Numbers": 5.0
+      },
+      {
+        "name": "d",
+        "Numbers": 6.0
+      }
+    ],
+    "goldEarned": 10
+  },
+  {
+    "wave": [
+      {
+        "name": "a",
+        "Numbers": 5.0
+      },
+      {
+        "name": "d",
+        "Numbers": 6.0
+      }
+    ],
+    "goldEarned": 10
+  }
+]

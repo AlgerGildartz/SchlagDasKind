@@ -1,0 +1,18 @@
+[
+	{
+		"lifePoint" : 1,
+		"enemyVisual" : "Plaque.png",
+		"walkSpeed" : 1,
+		"GoldEarned" : 100,
+		"enemyDamageOverride" : 10,
+		"nameReference" : "a"
+	},
+	{
+		"lifePoint" : 1,
+		"enemyVisual" : "Plaque.png",
+		"walkSpeed" : 1,
+		"GoldEarned" : 100,
+		"enemyDamageOverride" : 10,
+		"nameReference" : "b"
+	}
+]

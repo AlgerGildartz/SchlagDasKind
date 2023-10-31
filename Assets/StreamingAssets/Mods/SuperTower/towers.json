@@ -1,0 +1,20 @@
+[
+	{
+		"goldCost" : 200,
+		"towerVisual" : "/models/SuperTour.png",
+		"timeBetweenShoot" : 1,
+		"range" : 10,
+		"bulletDamage" : 10,
+		"bulletSpeedPower" : 0.04,
+		"nameReference" : "Doom"
+	},
+	{
+		"goldCost" : 30,
+		"towerVisual" : "path",
+		"timeBetweenShoot" : 0.5,
+		"range" : 2,
+		"bulletDamage" : 3,
+		"bulletSpeedPower" : 0.04,
+		"nameReference" : ""
+	}
+]

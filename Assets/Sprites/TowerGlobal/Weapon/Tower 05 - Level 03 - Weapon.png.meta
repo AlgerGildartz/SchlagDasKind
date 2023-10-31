@@ -1,0 +1,344 @@
+fileFormatVersion: 2
+guid: d286c5c5b1eb1b541aea3ed724dd8777
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Tower 05 - Level 03 - Weapon_0
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 129
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8765c86ddd56ff489eb446c040e184e
+      internalID: -1448624054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 03 - Weapon_1
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 129
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957e7ac384c9364c9e3f69311416fdd
+      internalID: -107256957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 03 - Weapon_2
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 129
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0ae25e0a107a5146921e0589db4dcd5
+      internalID: 751538178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 03 - Weapon_3
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 129
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2987ee0a82b31e24bb0778449664e13b
+      internalID: 1670153604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 03 - Weapon_4
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 129
+        width: 27
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c7dfa2d536a84c418682f4fdccc7679
+      internalID: -2100359636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 03 - Weapon_5
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 129
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5aa79019c31ef446a7dfc9d74521da1
+      internalID: -1370363997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 03 - Weapon_6
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 129
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b3b008dc516eb946888673d151cb9a1
+      internalID: 265609490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Tower 05 - Level 03 - Weapon_7
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 129
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37df9e335d1f55c428a18cc9dc540c1c
+      internalID: -604645387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Tower 05 - Level 03 - Weapon_33: -261956649
+      Tower 05 - Level 03 - Weapon_7: -604645387
+      Tower 05 - Level 03 - Weapon_4: -2100359636
+      Tower 05 - Level 03 - Weapon_38: -1074690518
+      Tower 05 - Level 03 - Weapon_29: 77428151
+      Tower 05 - Level 03 - Weapon_8: -208499558
+      Tower 05 - Level 03 - Weapon_34: 1015557339
+      Tower 05 - Level 03 - Weapon_20: -444211995
+      Tower 05 - Level 03 - Weapon_18: -1766485528
+      Tower 05 - Level 03 - Weapon_19: 940557941
+      Tower 05 - Level 03 - Weapon_37: -293115175
+      Tower 05 - Level 03 - Weapon_35: 375675321
+      Tower 05 - Level 03 - Weapon_28: -543877636
+      Tower 05 - Level 03 - Weapon_3: 1670153604
+      Tower 05 - Level 03 - Weapon_6: 265609490
+      Tower 05 - Level 03 - Weapon_10: -1008110509
+      Tower 05 - Level 03 - Weapon_11: 289589397
+      Tower 05 - Level 03 - Weapon_14: 168002433
+      Tower 05 - Level 03 - Weapon_5: -1370363997
+      Tower 05 - Level 03 - Weapon_22: 553604818
+      Tower 05 - Level 03 - Weapon_17: 1254375793
+      Tower 05 - Level 03 - Weapon_25: -1534821151
+      Tower 05 - Level 03 - Weapon_9: 1985076235
+      Tower 05 - Level 03 - Weapon_27: -1797058466
+      Tower 05 - Level 03 - Weapon_12: -1402088339
+      Tower 05 - Level 03 - Weapon_13: 90307722
+      Tower 05 - Level 03 - Weapon_30: 1129412475
+      Tower 05 - Level 03 - Weapon_23: -187245831
+      Tower 05 - Level 03 - Weapon_2: 751538178
+      Tower 05 - Level 03 - Weapon_32: -781505314
+      Tower 05 - Level 03 - Weapon_36: 547390925
+      Tower 05 - Level 03 - Weapon_39: -957582966
+      Tower 05 - Level 03 - Weapon_0: -1448624054
+      Tower 05 - Level 03 - Weapon_40: -588084739
+      Tower 05 - Level 03 - Weapon_24: 1079507132
+      Tower 05 - Level 03 - Weapon_26: -1213611717
+      Tower 05 - Level 03 - Weapon_31: 291122419
+      Tower 05 - Level 03 - Weapon_15: 447191958
+      Tower 05 - Level 03 - Weapon_1: -107256957
+      Tower 05 - Level 03 - Weapon_21: 372795198
+      Tower 05 - Level 03 - Weapon_16: -580638843
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
